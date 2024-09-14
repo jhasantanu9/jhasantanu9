@@ -49,14 +49,18 @@ I am also learning **Generative AI** and exploring **business automation technol
 
 ## 🛠 Featured Projects
 
-### [📊 MAMAA Financial Performance](https://mamaa-financial-performance.streamlit.app/)
-A comprehensive **financial analysis tool** that provides insights into the performance of major companies like MAMAA (Meta, Apple, Microsoft, Amazon, Alphabet). This project is built using **Streamlit**, showcasing real-time data analysis for business decision-making.
+### 🏥 Optimizing Healthcare Delivery
+This project focused on improving healthcare operations at **Massachusetts General Hospital**. By designing a customized **KPI dashboard**, the project improved metric tracking accuracy by 25%, enabling more effective resource allocation. Advanced calculated fields and interactive visualizations facilitated quicker decision-making, while the insights delivered reduced operational costs by 15% and optimized staff scheduling, enhancing overall efficiency.
 
-### [📈 Stock Price Predictor](https://github.com/SantanuJha/StockPricePredictor)
-An **LSTM-based stock price predictor** built using **Streamlit** and **Keras**. It analyzes historical stock data and provides insights into future trends—empowering users to make informed decisions in the stock market.
+### 💼 MAMAA Financial Performance
+A **financial analysis dashboard** was developed using **Streamlit** to analyze the financial performance of major tech companies (Meta, Apple, Microsoft, Amazon, Alphabet). The app boosted user engagement and analysis efficiency by 50%, automated an **ETL pipeline**, enhancing data accuracy by 40%, and integrated **sentiment analysis** alongside **financial score metrics**, improving investor decision-making by 15%. This project demonstrated how automated, data-driven insights can simplify financial analysis.
 
-### [🤖 Sentiment Analysis Tool](https://github.com/SantanuJha/TweetSentimentAnalyzer)
-A **Natural Language Processing** project that classifies tweets based on their sentiment (positive, neutral, or negative). Uses **NLP** techniques and **machine learning** algorithms to analyze real-time data from Twitter.
+### ☕ Maven Coffee Challenge
+This project aimed to create a **data strategy** for a new coffee shop. Using **Power BI** and **Excel**, the project improved market insights and customer trends by 20%, aligning business strategies with data-driven insights. An **interactive Power BI dashboard** was developed to visualize the findings, reducing decision-making time by 50%, enabling quick adaptability to evolving business conditions.
+
+### 🔎 Job Market Trends Analysis for Data Analysts in India
+This project developed a tool using **Selenium** to scrape over 1000 job listings for **Data Analysts in India**. Through **Exploratory Data Analysis (EDA)** and **Natural Language Processing (NLP)** with **NLTK**, the project identified the top 10 in-demand skills and key hiring trends. The insights were visualized on a **cloud-based dashboard**, improving data sharing and trend analysis by 50%, offering actionable insights for job seekers and recruiters.
+
 
 ---
 
