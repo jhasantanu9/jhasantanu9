@@ -4,12 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://www.linkedin.com/in/santanu-jha-845510292/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-green)](mailto:your.email@example.com)
 
----# 👋 Hey there! I'm Santanu Jha
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-blue)](https://santanujha.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://www.linkedin.com/in/santanu-jha)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-green)](mailto:your.email@example.com)
-
 ---
 
 ## About Me
