@@ -91,8 +91,8 @@ These hobbies help me stay grounded and inspire my approach to problem-solving.
 
 ## 📈 GitHub Analytics
 
-![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantanuJha&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuJha&layout=compact)](https://github.com/SantanuJha)
+![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhasantanu9&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhasantanu9&layout=compact)](https://github.com/jhasantanu9/)
 
 ---
 
